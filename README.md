@@ -65,8 +65,8 @@ Early-career **Data Engineer & Analytics Professional** with hands-on experience
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=MARELINMACWAN&show_icons=true&theme=radical" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARELINMACWAN&layout=compact&theme=radical" /></td>
 </tr>
 </table>
 
