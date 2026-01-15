@@ -1,6 +1,6 @@
 <!-- ===== PROFILE HEADER ===== -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/141463733?s=400&u=ee3d8f34b7459acf8403675edab7e2f40bbd7b89&v=4" width="120" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/141463733?s=400&u=ee3d8f34b7459acf8403675edab7e2f40bbd7b89&v=4" width="120" style="border-radius:50%;" />
   <h1>Marelin Macwan 👋</h1>
   <p>Early-career Data Engineer & Analytics Professional | ETL / ELT | Python | SQL | Cloud & BI</p>
 
@@ -54,10 +54,10 @@
 ## 🚀 Projects
 
 - ![](https://img.shields.io/badge/Sales%20Analytics-E6E0F8?style=for-the-badge)  
-  Automated ETL pipelines and developed interactive BI dashboards for KPI tracking.
+  End-to-End AWS Data Engineering Project-Ecommerce
 
 - ![](https://img.shields.io/badge/Customer%20Insights-F9F6F1?style=for-the-badge)  
-  Python-based data pipelines with validation and reliability monitoring.
+  Financial transactions Datawarehouse ETL Star Schema Analytics
 
 ---
 
