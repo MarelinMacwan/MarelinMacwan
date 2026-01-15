@@ -1,6 +1,6 @@
 <!-- ===== PROFILE HEADER ===== -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID" width="120" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/141463733?s=400&u=ee3d8f34b7459acf8403675edab7e2f40bbd7b89&v=4" width="120" style="border-radius:50%;" />
   <h1>Marelin Macwan 👋</h1>
   <p>Early-career Data Engineer & Analytics Professional | ETL / ELT | Python | SQL | Cloud & BI</p>
 
