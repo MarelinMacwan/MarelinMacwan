@@ -23,6 +23,8 @@
 | ![](https://img.shields.io/badge/SQL-F9F6F1?style=for-the-badge&logo=mysql&logoColor=5A4FCF) | ![](https://img.shields.io/badge/ELT-E6E0F8?style=for-the-badge) | ![](https://img.shields.io/badge/AWS-F9F6F1?style=for-the-badge&logo=amazon-aws&logoColor=5A4FCF) | ![](https://img.shields.io/badge/GitHub%20Actions-E6E0F8?style=for-the-badge&logo=githubactions&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Tableau-F9F6F1?style=for-the-badge&logo=tableau&logoColor=5A4FCF) |
 | ![](https://img.shields.io/badge/PostgreSQL-E6E0F8?style=for-the-badge&logo=postgresql&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Data%20Modeling-F9F6F1?style=for-the-badge) | ![](https://img.shields.io/badge/GCP-E6E0F8?style=for-the-badge&logo=google-cloud&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Azure%20DevOps-F9F6F1?style=for-the-badge&logo=azuredevops&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Dashboards-E6E0F8?style=for-the-badge) |
 | ![](https://img.shields.io/badge/Pandas-F9F6F1?style=for-the-badge&logo=pandas&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Data%20Quality-E6E0F8?style=for-the-badge) | ![](https://img.shields.io/badge/Snowflake-F9F6F1?style=for-the-badge&logo=snowflake&logoColor=5A4FCF) | ![](https://img.shields.io/badge/CI/CD-E6E0F8?style=for-the-badge) | |
+| ![](https://img.shields.io/badge/NumPy-E6E0F8?style=for-the-badge&logo=numpy&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Data%20Validation-F9F6F1?style=for-the-badge) | ![](https://img.shields.io/badge/Databricks-E6E0F8?style=for-the-badge&logo=databricks&logoColor=5A4FCF) | ![](https://img.shields.io/badge/Job%20Scheduling-F9F6F1?style=for-the-badge) | |
+
 
 ---
 
