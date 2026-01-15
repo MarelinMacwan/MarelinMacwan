@@ -54,7 +54,7 @@
 ## 🚀 Projects
 
 - ![](https://img.shields.io/badge/Sales%20Analytics-E6E0F8?style=for-the-badge)  
-  End-to-End AWS Data Engineering Project-Ecommerce
+  End-to-End AWS Data Engineering Pipeline-Ecommerce
 
 - ![](https://img.shields.io/badge/Customer%20Insights-F9F6F1?style=for-the-badge)  
   Financial transactions Datawarehouse ETL Star Schema Analytics
